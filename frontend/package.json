@@ -2,6 +2,9 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18"
+  },
   "proxy": "http://localhost:8001",
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
